@@ -1,0 +1,310 @@
+2025-07-04 04:11:56,726 - __main__ - INFO - Initializing bot...
+2025-07-04 04:11:56,848 - __main__ - INFO - Bot is starting to poll...
+2025-07-04 04:11:58,076 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/getMe "HTTP/1.1 200 OK"
+2025-07-04 04:11:58,318 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/deleteWebhook "HTTP/1.1 200 OK"
+2025-07-04 04:11:58,339 - apscheduler.scheduler - INFO - Scheduler started
+2025-07-04 04:11:58,341 - telegram.ext.Application - INFO - Application started
+2025-07-04 04:12:03,260 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/getUpdates "HTTP/1.1 200 OK"
+2025-07-04 04:12:03,694 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/sendMessage "HTTP/1.1 200 OK"
+2025-07-04 04:12:03,697 - __main__ - INFO - User 6158106622 (龙 [TW]) started the bot.
+2025-07-04 04:12:07,702 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/getUpdates "HTTP/1.1 200 OK"
+2025-07-04 04:12:07,710 - __main__ - INFO - Received message from user 6158106622: 'Hi'
+2025-07-04 04:12:08,108 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/sendChatAction "HTTP/1.1 200 OK"
+2025-07-04 04:12:10,539 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/sendMessage "HTTP/1.1 200 OK"
+2025-07-04 04:12:10,544 - __main__ - INFO - Sent AI reply to user 6158106622.
+2025-07-04 04:12:17,566 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/getUpdates "HTTP/1.1 200 OK"
+2025-07-04 04:12:17,573 - __main__ - INFO - Received message from user 6158106622: 'Who are you'
+2025-07-04 04:12:18,513 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/sendChatAction "HTTP/1.1 200 OK"
+2025-07-04 04:12:19,905 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/sendMessage "HTTP/1.1 200 OK"
+2025-07-04 04:12:19,911 - __main__ - INFO - Sent AI reply to user 6158106622.
+2025-07-04 04:12:27,802 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/getUpdates "HTTP/1.1 200 OK"
+2025-07-04 04:12:28,864 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/getUpdates "HTTP/1.1 200 OK"
+2025-07-04 04:12:28,870 - __main__ - INFO - Received message from user 6158106622: 'Can u write me the codes?'
+2025-07-04 04:12:29,762 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/sendChatAction "HTTP/1.1 200 OK"
+2025-07-04 04:12:31,712 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/sendMessage "HTTP/1.1 200 OK"
+2025-07-04 04:12:31,716 - __main__ - INFO - Sent AI reply to user 6158106622.
+2025-07-04 04:12:39,095 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/getUpdates "HTTP/1.1 200 OK"
+2025-07-04 04:12:49,337 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/getUpdates "HTTP/1.1 200 OK"
+2025-07-04 04:12:59,582 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/getUpdates "HTTP/1.1 200 OK"
+2025-07-04 04:13:09,819 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/getUpdates "HTTP/1.1 200 OK"
+2025-07-04 04:13:14,265 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/getUpdates "HTTP/1.1 200 OK"
+2025-07-04 04:13:14,270 - __main__ - INFO - Received message from user 6158106622: 'မြန်မာလိုရလား'
+2025-07-04 04:13:15,307 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/sendChatAction "HTTP/1.1 200 OK"
+2025-07-04 04:13:18,617 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/sendMessage "HTTP/1.1 200 OK"
+2025-07-04 04:13:18,624 - __main__ - INFO - Sent AI reply to user 6158106622.
+2025-07-04 04:13:24,501 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/getUpdates "HTTP/1.1 200 OK"
+2025-07-04 04:13:34,749 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/getUpdates "HTTP/1.1 200 OK"
+2025-07-04 04:13:36,545 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/getUpdates "HTTP/1.1 200 OK"
+2025-07-04 04:13:36,553 - __main__ - INFO - Received message from user 6158106622: 'ပုံပြင်ခိုင်းလို့ရောရလား'
+2025-07-04 04:13:37,476 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/sendChatAction "HTTP/1.1 200 OK"
+2025-07-04 04:13:40,812 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/sendMessage "HTTP/1.1 200 OK"
+2025-07-04 04:13:40,816 - __main__ - INFO - Sent AI reply to user 6158106622.
+2025-07-04 04:13:46,783 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/getUpdates "HTTP/1.1 200 OK"
+2025-07-04 04:13:47,008 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/getUpdates "HTTP/1.1 200 OK"
+2025-07-04 04:13:47,017 - __main__ - INFO - Received message from user 6158106622: 'ပုံထုတ်ပေးနိုင်လား'
+2025-07-04 04:13:47,928 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/sendChatAction "HTTP/1.1 200 OK"
+2025-07-04 04:13:49,666 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/sendMessage "HTTP/1.1 200 OK"
+2025-07-04 04:13:49,669 - __main__ - INFO - Sent AI reply to user 6158106622.
+2025-07-04 04:13:57,249 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/getUpdates "HTTP/1.1 200 OK"
+2025-07-04 04:14:07,473 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/getUpdates "HTTP/1.1 200 OK"
+2025-07-04 04:14:17,708 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/getUpdates "HTTP/1.1 200 OK"
+2025-07-04 04:14:27,941 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/getUpdates "HTTP/1.1 200 OK"
+2025-07-04 04:14:38,171 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/getUpdates "HTTP/1.1 200 OK"
+2025-07-04 04:14:48,400 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/getUpdates "HTTP/1.1 200 OK"
+2025-07-04 04:14:58,932 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/getUpdates "HTTP/1.1 200 OK"
+2025-07-04 04:15:09,274 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/getUpdates "HTTP/1.1 200 OK"
+2025-07-04 04:15:19,533 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/getUpdates "HTTP/1.1 200 OK"
+2025-07-04 04:15:29,802 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/getUpdates "HTTP/1.1 200 OK"
+2025-07-04 04:15:40,084 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/getUpdates "HTTP/1.1 200 OK"
+2025-07-04 04:15:50,358 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/getUpdates "HTTP/1.1 200 OK"
+2025-07-04 04:16:00,624 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/getUpdates "HTTP/1.1 200 OK"
+2025-07-04 04:16:10,896 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/getUpdates "HTTP/1.1 200 OK"
+2025-07-04 04:16:21,177 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/getUpdates "HTTP/1.1 200 OK"
+2025-07-04 04:16:31,423 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/getUpdates "HTTP/1.1 200 OK"
+2025-07-04 04:16:41,657 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/getUpdates "HTTP/1.1 200 OK"
+2025-07-04 04:16:51,996 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/getUpdates "HTTP/1.1 200 OK"
+2025-07-04 04:17:02,248 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/getUpdates "HTTP/1.1 200 OK"
+2025-07-04 04:17:12,477 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/getUpdates "HTTP/1.1 200 OK"
+2025-07-04 04:17:22,708 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/getUpdates "HTTP/1.1 200 OK"
+2025-07-04 04:17:32,983 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/getUpdates "HTTP/1.1 200 OK"
+2025-07-04 04:17:43,252 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/getUpdates "HTTP/1.1 200 OK"
+2025-07-04 04:17:53,506 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/getUpdates "HTTP/1.1 200 OK"
+2025-07-04 04:18:03,757 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/getUpdates "HTTP/1.1 200 OK"
+2025-07-04 04:18:14,004 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/getUpdates "HTTP/1.1 200 OK"
+2025-07-04 04:18:24,268 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/getUpdates "HTTP/1.1 200 OK"
+2025-07-04 04:18:34,499 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/getUpdates "HTTP/1.1 200 OK"
+2025-07-04 04:18:44,727 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/getUpdates "HTTP/1.1 200 OK"
+2025-07-04 04:18:54,976 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/getUpdates "HTTP/1.1 200 OK"
+2025-07-04 04:19:05,503 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/getUpdates "HTTP/1.1 200 OK"
+2025-07-04 04:19:15,756 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/getUpdates "HTTP/1.1 200 OK"
+2025-07-04 04:19:26,019 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/getUpdates "HTTP/1.1 200 OK"
+2025-07-04 04:19:36,261 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/getUpdates "HTTP/1.1 200 OK"
+2025-07-04 04:19:46,501 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/getUpdates "HTTP/1.1 200 OK"
+2025-07-04 04:19:56,881 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/getUpdates "HTTP/1.1 200 OK"
+2025-07-04 04:19:56,885 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-07-04 04:19:56,888 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2025-07-04 04:19:56,900 - telegram.ext.Application - INFO - Application.stop() complete
+2025-07-04 04:19:56,913 - __main__ - INFO - Bot has stopped.
+2025-07-04 04:27:57,138 - __main__ - INFO - Successfully configured Google and Stability AI APIs.
+2025-07-04 04:27:57,140 - __main__ - INFO - Initializing bot application...
+2025-07-04 04:27:57,344 - __main__ - INFO - Bot is starting to poll...
+2025-07-04 04:27:59,123 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/getMe "HTTP/1.1 200 OK"
+2025-07-04 04:27:59,634 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/deleteWebhook "HTTP/1.1 200 OK"
+2025-07-04 04:27:59,636 - apscheduler.scheduler - INFO - Scheduler started
+2025-07-04 04:27:59,637 - telegram.ext.Application - INFO - Application started
+2025-07-04 04:28:06,705 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/getUpdates "HTTP/1.1 200 OK"
+2025-07-04 04:28:07,631 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/sendMessage "HTTP/1.1 200 OK"
+2025-07-04 04:28:07,642 - __main__ - INFO - User 6158106622 (龙 [TW]) started the bot.
+2025-07-04 04:28:15,644 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/getUpdates "HTTP/1.1 200 OK"
+2025-07-04 04:28:15,652 - __main__ - INFO - Image request from user 6158106622 with prompt: 'dog matting'
+2025-07-04 04:28:16,646 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/sendMessage "HTTP/1.1 200 OK"
+2025-07-04 04:28:17,037 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/sendChatAction "HTTP/1.1 200 OK"
+2025-07-04 04:28:30,598 - __main__ - ERROR - Failed to generate image for user 6158106622: module 'requests.utils' has no attribute 'b64decode'
+Traceback (most recent call last):
+  File "/storage/emulated/0/TWAI/twai.py", line 115, in image_command
+    image_bytes = io.BytesIO(requests.utils.b64decode(image_b64))
+                             ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: module 'requests.utils' has no attribute 'b64decode'
+2025-07-04 04:28:30,617 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/getUpdates "HTTP/1.1 200 OK"
+2025-07-04 04:28:31,525 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/sendMessage "HTTP/1.1 200 OK"
+2025-07-04 04:28:40,830 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/getUpdates "HTTP/1.1 200 OK"
+2025-07-04 04:28:51,037 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/getUpdates "HTTP/1.1 200 OK"
+2025-07-04 04:29:01,249 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/getUpdates "HTTP/1.1 200 OK"
+2025-07-04 04:29:11,480 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/getUpdates "HTTP/1.1 200 OK"
+2025-07-04 04:29:21,703 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/getUpdates "HTTP/1.1 200 OK"
+2025-07-04 04:29:31,929 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/getUpdates "HTTP/1.1 200 OK"
+2025-07-04 04:29:42,152 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/getUpdates "HTTP/1.1 200 OK"
+2025-07-04 04:29:52,383 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/getUpdates "HTTP/1.1 200 OK"
+2025-07-04 04:30:02,613 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/getUpdates "HTTP/1.1 200 OK"
+2025-07-04 04:30:12,828 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/getUpdates "HTTP/1.1 200 OK"
+2025-07-04 04:30:23,059 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/getUpdates "HTTP/1.1 200 OK"
+2025-07-04 04:30:33,280 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/getUpdates "HTTP/1.1 200 OK"
+2025-07-04 04:30:35,229 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/getUpdates "HTTP/1.1 200 OK"
+2025-07-04 04:30:36,439 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/sendMessage "HTTP/1.1 200 OK"
+2025-07-04 04:30:45,459 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/getUpdates "HTTP/1.1 200 OK"
+2025-07-04 04:30:55,699 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/getUpdates "HTTP/1.1 200 OK"
+2025-07-04 04:31:05,913 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/getUpdates "HTTP/1.1 200 OK"
+2025-07-04 04:31:16,120 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/getUpdates "HTTP/1.1 200 OK"
+2025-07-04 04:31:22,968 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/getUpdates "HTTP/1.1 200 OK"
+2025-07-04 04:31:22,972 - __main__ - INFO - Received message from user 6158106622: 'လူတစ်ယောက်က အိပ်ချိန်ဘယ်နှစ်နာရီရှိသင့်လဲ'
+2025-07-04 04:31:24,256 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/sendChatAction "HTTP/1.1 200 OK"
+2025-07-04 04:31:31,016 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/sendMessage "HTTP/1.1 200 OK"
+2025-07-04 04:31:33,188 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/getUpdates "HTTP/1.1 200 OK"
+2025-07-04 04:31:43,406 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/getUpdates "HTTP/1.1 200 OK"
+2025-07-04 04:31:53,619 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/getUpdates "HTTP/1.1 200 OK"
+2025-07-04 04:32:03,861 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/getUpdates "HTTP/1.1 200 OK"
+2025-07-04 04:32:14,096 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/getUpdates "HTTP/1.1 200 OK"
+2025-07-04 04:32:24,321 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/getUpdates "HTTP/1.1 200 OK"
+2025-07-04 04:32:29,330 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7884778065:AAHMwF7ABzScfZuffMe6o6sn34uXqBlm3K0/getUpdates "HTTP/1.1 200 OK"
+2025-07-04 04:32:29,338 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-07-04 04:32:29,341 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2025-07-04 04:32:29,352 - telegram.ext.Application - INFO - Application.stop() complete
+2025-07-04 04:32:29,373 - __main__ - INFO - Bot has stopped.
+2025-07-04 04:32:33,094 - __main__ - INFO - Initializing bot application...
+2025-07-04 04:32:33,215 - __main__ - INFO - Bot is starting to poll...
+2025-07-04 04:32:34,268 - apscheduler.scheduler - INFO - Scheduler started
+2025-07-04 04:32:34,269 - telegram.ext.Application - INFO - Application started
+2025-07-04 04:32:42,046 - __main__ - INFO - User 6158106622 (龙 [TW]) started the bot.
+2025-07-04 04:33:03,199 - __main__ - INFO - Image request from user 6158106622 with prompt: 'Dogs and cats running in the woods'
+2025-07-04 04:33:22,578 - __main__ - ERROR - Exception while handling an update: Timed out
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpx/_transports/default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpx/_transports/default.py", line 394, in handle_async_request
+    resp = await self._pool.handle_async_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpcore/_async/connection_pool.py", line 256, in handle_async_request
+    raise exc from None
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpcore/_async/connection_pool.py", line 236, in handle_async_request
+    response = await connection.handle_async_request(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpcore/_async/connection.py", line 103, in handle_async_request
+    return await self._connection.handle_async_request(request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpcore/_async/http11.py", line 136, in handle_async_request
+    raise exc
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpcore/_async/http11.py", line 106, in handle_async_request
+    ) = await self._receive_response_headers(**kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpcore/_async/http11.py", line 177, in _receive_response_headers
+    event = await self._receive_event(timeout=timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpcore/_async/http11.py", line 217, in _receive_event
+    data = await self._network_stream.read(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpcore/_backends/anyio.py", line 32, in read
+    with map_exceptions(exc_map):
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpcore/_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ReadTimeout
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telegram/request/_httpxrequest.py", line 276, in do_request
+    res = await self._client.request(
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpx/_client.py", line 1540, in request
+    return await self.send(request, auth=auth, follow_redirects=follow_redirects)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpx/_client.py", line 1629, in send
+    response = await self._send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpx/_client.py", line 1657, in _send_handling_auth
+    response = await self._send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpx/_client.py", line 1694, in _send_handling_redirects
+    response = await self._send_single_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpx/_client.py", line 1730, in _send_single_request
+    response = await transport.handle_async_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpx/_transports/default.py", line 393, in handle_async_request
+    with map_httpcore_exceptions():
+         ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpx/_transports/default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ReadTimeout
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telegram/ext/_application.py", line 1264, in process_update
+    await coroutine
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telegram/ext/_handlers/conversationhandler.py", line 857, in handle_update
+    new_state: object = await handler.handle_update(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telegram/ext/_handlers/basehandler.py", line 157, in handle_update
+    return await self.callback(update, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/storage/emulated/0/TWAI/twai.py", line 129, in generate_image_from_prompt
+    await context.bot.send_photo(
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telegram/ext/_extbot.py", line 2865, in send_photo
+    return await super().send_photo(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telegram/_bot.py", line 541, in decorator
+    result = await func(self, *args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telegram/_bot.py", line 1378, in send_photo
+    return await self._send_message(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telegram/ext/_extbot.py", line 581, in _send_message
+    result = await super()._send_message(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telegram/_bot.py", line 735, in _send_message
+    result = await self._post(
+             ^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telegram/_bot.py", line 629, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telegram/ext/_extbot.py", line 347, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telegram/_bot.py", line 657, in _do_post
+    return await request.post(
+           ^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telegram/request/_baserequest.py", line 200, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telegram/request/_baserequest.py", line 340, in _request_wrapper
+    raise exc
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telegram/request/_baserequest.py", line 330, in _request_wrapper
+    code, payload = await self.do_request(
+                    ^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telegram/request/_httpxrequest.py", line 293, in do_request
+    raise TimedOut from err
+telegram.error.TimedOut: Timed out
+2025-07-04 04:36:56,029 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-07-04 04:36:56,034 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2025-07-04 04:36:56,045 - telegram.ext.Application - INFO - Application.stop() complete
+2025-07-04 04:36:56,058 - __main__ - INFO - Bot has stopped.
+2025-07-04 04:37:00,788 - __main__ - INFO - Initializing bot application...
+2025-07-04 04:37:00,899 - __main__ - INFO - Bot is starting to poll...
+2025-07-04 04:37:02,011 - apscheduler.scheduler - INFO - Scheduler started
+2025-07-04 04:37:02,012 - telegram.ext.Application - INFO - Application started
+2025-07-04 04:38:10,033 - __main__ - INFO - Image request from user 6158106622 with prompt: 'Dogs and cats running in the woods, human like and super realistic, resolution 8k'
+2025-07-04 04:38:38,933 - __main__ - INFO - Successfully sent image to user 6158106622.
+2025-07-04 04:39:25,874 - __main__ - INFO - Image request from user 6158106622 with prompt: 'Beautiful nature with super realistic resolution 8k and more professional realistic'
+2025-07-04 04:39:53,345 - __main__ - INFO - Successfully sent image to user 6158106622.
+2025-07-04 04:46:04,547 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-07-04 04:46:04,553 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2025-07-04 04:46:04,566 - telegram.ext.Application - INFO - Application.stop() complete
+2025-07-04 04:46:09,333 - __main__ - INFO - Bot v4 Professional Edition is starting to poll...
+2025-07-04 04:46:10,380 - apscheduler.scheduler - INFO - Scheduler started
+2025-07-04 04:46:10,381 - telegram.ext.Application - INFO - Application started
+2025-07-04 04:46:46,961 - __main__ - INFO - Image request from user 6158106622 with prompt: 'Beautiful nature with super realistic resolution 8k and more professional realistic'
+2025-07-04 04:46:51,314 - __main__ - ERROR - Exception while handling an update: Client error '404 Not Found' for url 'https://api.stability.ai/v1/generation/stable-diffusion-3-medium/text-to-image'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telegram/ext/_application.py", line 1264, in process_update
+    await coroutine
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telegram/ext/_handlers/conversationhandler.py", line 857, in handle_update
+    new_state: object = await handler.handle_update(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telegram/ext/_handlers/basehandler.py", line 157, in handle_update
+    return await self.callback(update, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/storage/emulated/0/TWAI/twai.py", line 88, in generate_image_from_prompt
+    await asyncio.wait_for(asyncio.shield(generation_task), timeout=0.3)
+  File "/data/data/com.termux/files/usr/lib/python3.12/asyncio/tasks.py", line 520, in wait_for
+    return await fut
+           ^^^^^^^^^
+  File "/storage/emulated/0/TWAI/twai.py", line 145, in _image_api_call
+    response.raise_for_status()
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpx/_models.py", line 829, in raise_for_status
+    raise HTTPStatusError(message, request=request, response=self)
+httpx.HTTPStatusError: Client error '404 Not Found' for url 'https://api.stability.ai/v1/generation/stable-diffusion-3-medium/text-to-image'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+2025-07-04 04:50:51,770 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-07-04 04:50:51,773 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2025-07-04 04:50:51,785 - telegram.ext.Application - INFO - Application.stop() complete
+2025-07-04 04:50:55,388 - __main__ - INFO - Bot v5 Professional Edition is starting to poll...
+2025-07-04 04:50:56,402 - apscheduler.scheduler - INFO - Scheduler started
+2025-07-04 04:50:56,403 - telegram.ext.Application - INFO - Application started
+2025-07-04 04:51:13,428 - __main__ - INFO - Image request from user 6158106622 with prompt: 'Beautiful nature with super realistic resolution 8k and more professional realistic'
+2025-07-04 04:52:04,215 - __main__ - INFO - Image request from user 6158106622 with prompt: 'Dogs and cats running in the woods, human like and super realistic, resolution 8k'
